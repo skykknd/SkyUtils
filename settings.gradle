@@ -1,0 +1,3 @@
+include ':skylib'
+include ':app'
+rootProject.name = "SkyUtils"
