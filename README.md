@@ -8,4 +8,4 @@ step2:
 SkyRouter skyRouter = new SkyRouter(getApplicationContext());
 
 step3:
-skyRouter.getUiUtil().showLongToast("come on");
+skyRouter.getUiUtil().showLongToast("向我的师傅“东贵”致敬啊");
